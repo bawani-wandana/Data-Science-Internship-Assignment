@@ -1,5 +1,6 @@
 # Data-Science-Internship-Assignment
 
+I used Google Colab for these two tasks.
 
 For Task 01-
 Ensure that the CSV files are available locally and make sure to add correct file path.
